@@ -1,6 +1,8 @@
 [submodule "2DRenderer"]
 	path = 2DRenderer
 	url = https://github.com/Ultim8Xeno/2DRenderer
+	branch = main
 [submodule "NetworkingAPI"]
 	path = NetworkingAPI
 	url = https://github.com/Ultim8Xeno/NetworkingAPI
+	branch = main

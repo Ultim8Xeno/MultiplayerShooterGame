@@ -15,8 +15,11 @@ project "MultiplayerShooterGame"
 
 	includedirs
 	{
-		"%{wks.location}/OpenGLRenderer/src",
-		"src"
+		"%{wks.location}/2DRenderer/src",
+		"src",
+		"%{wks.location}/NetworkingAPI/src",
+		"%{wks.location}/NetworkingAPI/dependencies/include"
+
 	}
 
 	links
